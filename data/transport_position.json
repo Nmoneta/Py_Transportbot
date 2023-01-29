@@ -1,0 +1,38 @@
+[
+    {
+        "Position": "Stops",
+        "Stops": "Спортивная",
+        "Orient": "Left",
+        "Ending_Stops": "До ост. Парк им. Кирова"
+    },
+    {
+        "Position": "Between_Stops",
+        "Stops": [
+            "Автопарк №2",
+            "Северный мкрн"
+        ],
+        "Orient": "Left",
+        "Ending_Stops": "До ост. Парк им. Кирова"
+    },
+    {
+        "Position": "Stops",
+        "Stops": "ул. 4-я Подлесная",
+        "Orient": "Left",
+        "Ending_Stops": "До ост. Парк им. Кирова"
+    },
+    {
+        "Position": "Stops",
+        "Stops": "ул. Молодежная",
+        "Orient": "Right",
+        "Ending_Stops": "До ост. Рембыттехника"
+    },
+    {
+        "Position": "Between_Stops",
+        "Stops": [
+            "ИИТ им. Драгунова",
+            "Автопарк №2"
+        ],
+        "Orient": "Right",
+        "Ending_Stops": "До ост. Рембыттехника"
+    }
+]

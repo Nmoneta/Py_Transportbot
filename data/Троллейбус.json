@@ -1,0 +1,36 @@
+{
+    "response": {
+        "1": [
+            "Центр - Дом печати",
+            "https://igis-transport.ru/izh/trolleybus/1?"
+        ],
+        "2": [
+            "Улица Молодёжная - Адм.Индустр.района / Дом печати",
+            "https://igis-transport.ru/izh/trolleybus/2?"
+        ],
+        "4": [
+            "Автозавод - Завод «Нефтемаш» / ул. Молодежная",
+            "https://igis-transport.ru/izh/trolleybus/4?"
+        ],
+        "6": [
+            "Городок металлургов - Завод «Нефтемаш» / Улица Труда",
+            "https://igis-transport.ru/izh/trolleybus/6?"
+        ],
+        "7": [
+            "Центр - Улица Труда",
+            "https://igis-transport.ru/izh/trolleybus/7?"
+        ],
+        "9": [
+            "Посёлок Машиностроителей - Городок металлургов",
+            "https://igis-transport.ru/izh/trolleybus/9?"
+        ],
+        "10": [
+            "Посёлок Машиностроителей - Улица Ворошилова",
+            "https://igis-transport.ru/izh/trolleybus/10?"
+        ],
+        "14": [
+            "Улица Кузебая Герда - Улица Труда",
+            "https://igis-transport.ru/izh/trolleybus/14?"
+        ]
+    }
+}

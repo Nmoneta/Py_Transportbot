@@ -1,0 +1,48 @@
+{
+    "response": {
+        "1": [
+            "Улица Московская - Сквер металлургов",
+            "https://igis-transport.ru/izh/tram/1?"
+        ],
+        "2": [
+            "Улица Промышленная - Буммаш",
+            "https://igis-transport.ru/izh/tram/2?"
+        ],
+        "3": [
+            "Улица Московская - Улица Промышленная",
+            "https://igis-transport.ru/izh/tram/3?"
+        ],
+        "4": [
+            "Улица Промышленная - Сквер металлургов",
+            "https://igis-transport.ru/izh/tram/4?"
+        ],
+        "5": [
+            "Буммаш - Улица Огнеупорная",
+            "https://igis-transport.ru/izh/tram/5?"
+        ],
+        "7": [
+            "Буммаш - Сквер металлургов",
+            "https://igis-transport.ru/izh/tram/7?"
+        ],
+        "8": [
+            "Буммаш - Улица Промышленная",
+            "https://igis-transport.ru/izh/tram/8?"
+        ],
+        "9": [
+            "Улица Московская - Буммаш",
+            "https://igis-transport.ru/izh/tram/9?"
+        ],
+        "10": [
+            "Сквер металлургов - Улица Ворошилова",
+            "https://igis-transport.ru/izh/tram/10?"
+        ],
+        "11": [
+            "Улица Промышленная - Улица Ворошилова",
+            "https://igis-transport.ru/izh/tram/11?"
+        ],
+        "12": [
+            "Улица Московская - Улица Ворошилова",
+            "https://igis-transport.ru/izh/tram/12?"
+        ]
+    }
+}

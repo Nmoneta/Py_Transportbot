@@ -1,0 +1,20 @@
+{
+    "message_id": 819,
+    "from": {
+        "id": 334234686,
+        "is_bot": false,
+        "first_name": "Никита",
+        "last_name": "Павлов",
+        "username": "Nmoneta",
+        "language_code": "ru"
+    },
+    "chat": {
+        "id": 334234686,
+        "first_name": "Никита",
+        "last_name": "Павлов",
+        "username": "Nmoneta",
+        "type": "private"
+    },
+    "date": 1675016972,
+    "text": "Автобус"
+}
