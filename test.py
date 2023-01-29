@@ -73,21 +73,18 @@ def choiсe_transport_type(message):
                 with open('background_message.json',"w") as file:
                     json.dump(message.json,file,indent=4,ensure_ascii=False)
                 break
-    try:
-        if(message.text.isdigit()):
-            with open('background_message.json', "r") as file:
-                data = json.load(file)
-            if (data['text'] in"Автобус" or data['text'] in "Троллейбус" or data['text'] in "Трамвай"):
-                dict = parse.position(message.text, data['text'])
-                text = text_data_transport_position(dict)
-                markup = markup_Reply_transport_button()
-                bot.send_message(message.chat.id, f"Список доступного транспорта:\n {text}", reply_markup=markup)
-            else:
-                markup = markup_Reply_transport_button()
-                bot.send_message(message.chat.id, f"Введите необходимый вид транспорта:\n{str_output}",
-                                 reply_markup=markup)
-    except Exception as e:
-        print(e)
+
+    if(message.text.isdigit()):
+        with open('background_message.json', "r") as file:
+            data = json.load(file)
+        if (data['text'] in"Автобус" or data['text'] in "Троллейбус" or data['text'] in "Трамвай"):
+            dict = parse.position(message.text, data['text'])
+            text = text_data_transport_position(dict)
+            markup = markup_Reply_transport_button()
+            bot.send_message(message.chat.id, f"Список доступного транспорта:\n {text}", reply_markup=markup)
+        else:
+            markup = markup_Reply_transport_button()
+            bot.send_message(message.chat.id, f"Введите необходимый вид транспорта:\n{str_output}",reply_markup=markup)
 
 
 bot.polling(none_stop=True)
