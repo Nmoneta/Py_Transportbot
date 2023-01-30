@@ -53,7 +53,7 @@ def start(message):
 @bot.message_handler(content_types=['text'])
 def choiсe_transport_type(message):
     message_b = ''
-    with open('all_categories_dict.json', 'r') as file:
+    with open('all_categories_dict.json', 'r', encoding="utf-8") as file:
         data = json.load(file)
     str_output = ', \n'.join(data.keys())
     mess_text = message.text
