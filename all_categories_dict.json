@@ -1,5 +1,5 @@
 {
-    "Автобус": "https://igis-transport.ru/izh/citybus?",
-    "Трамвай": "https://igis-transport.ru/izh/tram?",
-    "Троллейбус": "https://igis-transport.ru/izh/trolleybus?"
+  "\u0410\u0432\u0442\u043e\u0431\u0443\u0441": "https://igis-transport.ru/izh/citybus?",
+  "\u0422\u0440\u0430\u043c\u0432\u0430\u0439": "https://igis-transport.ru/izh/tram?",
+  "\u0422\u0440\u043e\u043b\u043b\u0435\u0439\u0431\u0443\u0441": "https://igis-transport.ru/izh/trolleybus?"
 }

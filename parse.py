@@ -23,7 +23,7 @@ def get_tranport_type():
             transport_href = "https://igis-transport.ru" + item.get("href")
             transport_categories_dict[transport_name] = transport_href
     with open("all_categories_dict.json", "w") as file:
-        json.dump(transport_categories_dict, file,indent=4,ensure_ascii=False)
+        json.dump(transport_categories_dict, file,indent=2)
 
 
 
@@ -137,5 +137,5 @@ def position(transport_num,type_transport):
     with open("data/transport_position.json","w") as file:
         json.dump(dict_transport,file,indent=4,ensure_ascii=False)
     return dict_transport
-#get_tranport_type()
-#position("29","Автобус")
+get_tranport_type()
+# position("29","Автобус")
