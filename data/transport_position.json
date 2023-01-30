@@ -1,38 +1,68 @@
 [
     {
         "Position": "Stops",
-        "Stops": "Спортивная",
+        "Stops": "Ветлечебница",
         "Orient": "Left",
-        "Ending_Stops": "До ост. Парк им. Кирова"
+        "Ending_Stops": "До ост. гор. Металлургов"
+    },
+    {
+        "Position": "Stops",
+        "Stops": "ул. Селтинская",
+        "Orient": "Left",
+        "Ending_Stops": "До ост. гор. Металлургов"
+    },
+    {
+        "Position": "Stops",
+        "Stops": "АО Ижсталь",
+        "Orient": "Left",
+        "Ending_Stops": "До ост. гор. Металлургов"
     },
     {
         "Position": "Between_Stops",
         "Stops": [
-            "Автопарк №2",
-            "Северный мкрн"
+            "ДК Аксион",
+            "пер. Широкий"
         ],
         "Orient": "Left",
-        "Ending_Stops": "До ост. Парк им. Кирова"
+        "Ending_Stops": "До ост. гор. Металлургов"
     },
     {
         "Position": "Stops",
-        "Stops": "ул. 4-я Подлесная",
+        "Stops": "м-н Подарки",
         "Orient": "Left",
-        "Ending_Stops": "До ост. Парк им. Кирова"
+        "Ending_Stops": "До ост. гор. Металлургов"
     },
     {
         "Position": "Stops",
-        "Stops": "ул. Молодежная",
+        "Stops": "ул. 9-я Подлесная",
+        "Orient": "Left",
+        "Ending_Stops": "До ост. гор. Металлургов"
+    },
+    {
+        "Position": "Stops",
+        "Stops": "гор. Металлургов",
+        "Orient": "Left",
+        "Ending_Stops": "До ост. гор. Металлургов"
+    },
+    {
+        "Position": "Stops",
+        "Stops": "з-д Керамблоков",
         "Orient": "Right",
-        "Ending_Stops": "До ост. Рембыттехника"
+        "Ending_Stops": "До ост. пос. Машиностроителей"
     },
     {
         "Position": "Between_Stops",
         "Stops": [
-            "ИИТ им. Драгунова",
-            "Автопарк №2"
+            "Долгий мост",
+            "ул. Ленина"
         ],
         "Orient": "Right",
-        "Ending_Stops": "До ост. Рембыттехника"
+        "Ending_Stops": "До ост. пос. Машиностроителей"
+    },
+    {
+        "Position": "Stops",
+        "Stops": "гор. Металлургов",
+        "Orient": "Right",
+        "Ending_Stops": "До ост. пос. Машиностроителей"
     }
 ]

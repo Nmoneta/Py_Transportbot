@@ -33,7 +33,7 @@ def text_data_transport_position(dict):
         for item in dict:
             if(item["Position"] == "Between_Stops"):
                 str_data = f'✅️Транспорт находится между остановками {item["Stops"][0]} и {item["Stops"][1]}. Маршрут едет до остановки {item["Ending_Stops"]}.'
-            else: str_data = f'✅️Транспорт находится на остановке {item["Stops"]}. Маршрут едет до остановки {item["Ending_Stops"]}.'
+            elif (item["Position"] == "Stops"): str_data = f'✅️Транспорт находится на остановке {item["Stops"]}. Маршрут едет {item["Ending_Stops"]}.'
             output_str.append(str_data)
         output_str = ' \n'.join(output_str)
         return output_str
