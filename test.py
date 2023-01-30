@@ -54,7 +54,7 @@ def start(message):
 def choiсe_transport_type(message):
     message_b = ''
     with open('all_categories_dict.json', 'r', encoding="utf-8") as file:
-        data = json.load(file)
+        data = json.load(file.read())
     str_output = ', \n'.join(data.keys())
     mess_text = message.text
     if(mess_text == 'Тип транспорта'):
