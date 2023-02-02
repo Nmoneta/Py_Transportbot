@@ -1,148 +1,148 @@
 {
-    "response": {
-        "2": [
-            "Собор А. Невского - С/х Медведево",
-            "https://igis-transport.ru/izh/citybus/2?"
-        ],
-        "6": [
-            "Собор А. Невского - Люлли",
-            "https://igis-transport.ru/izh/citybus/6?"
-        ],
-        "7": [
-            "Собор А. Невского - База СТМ",
-            "https://igis-transport.ru/izh/citybus/7?"
-        ],
-        "8": [
-            "Станкострой - Малиновая Гора",
-            "https://igis-transport.ru/izh/citybus/8?"
-        ],
-        "9": [
-            "Собор А. Невского - пос. Шунды",
-            "https://igis-transport.ru/izh/citybus/9?"
-        ],
-        "10": [
-            "Станкострой - завод Пластмасс",
-            "https://igis-transport.ru/izh/citybus/10?"
-        ],
-        "11": [
-            "Собор А. Невского - ул. Фурманова",
-            "https://igis-transport.ru/izh/citybus/11?"
-        ],
-        "12": [
-            "Разворотное кольцо - Станкострой",
-            "https://igis-transport.ru/izh/citybus/12?"
-        ],
-        "15": [
-            "Станкострой - Металлобаза",
-            "https://igis-transport.ru/izh/citybus/15?"
-        ],
-        "16": [
-            "УБР - м/р - н Северный",
-            "https://igis-transport.ru/izh/citybus/16?"
-        ],
-        "18": [
-            "парк им. Кирова - Автозавод",
-            "https://igis-transport.ru/izh/citybus/18?"
-        ],
-        "19": [
-            "ул. Чугуевского - ул. Выставочная",
-            "https://igis-transport.ru/izh/citybus/19?"
-        ],
-        "21": [
-            "Садоогороды - Трансельхозтехника",
-            "https://igis-transport.ru/izh/citybus/21?"
-        ],
-        "22": [
-            "Оранжерейный комплекс - Нагорный микрорайон",
-            "https://igis-transport.ru/izh/citybus/22?"
-        ],
-        "23": [
-            "ул. 9 - е Января - Школа № 94",
-            "https://igis-transport.ru/izh/citybus/23?"
-        ],
-        "25": [
-            "Завод Пластмасс - мкр - н Нагорный",
-            "https://igis-transport.ru/izh/citybus/25?"
-        ],
-        "26": [
-            "16 - я - Разворотное кольцо",
-            "https://igis-transport.ru/izh/citybus/26?"
-        ],
-        "27": [
-            "ул. К. Герда - Рембыттехника",
-            "https://igis-transport.ru/izh/citybus/27?"
-        ],
-        "28": [
-            "Сквер металлургов - Колледж гос и муниципальной службы",
-            "https://igis-transport.ru/izh/citybus/28?"
-        ],
-        "29": [
-            "Парк Кирова - Рембыттехника",
-            "https://igis-transport.ru/izh/citybus/29?"
-        ],
-        "31": [
-            "Рембыттехника - Троллейбусное кольцо",
-            "https://igis-transport.ru/izh/citybus/31?"
-        ],
-        "34": [
-            "Садоогороды - Станкострой",
-            "https://igis-transport.ru/izh/citybus/34?"
-        ],
-        "36": [
-            "Завод Пластмасс - Нагорный микрорайон",
-            "https://igis-transport.ru/izh/citybus/36?"
-        ],
-        "39": [
-            "ул. Чугуевского - Восточный рынок",
-            "https://igis-transport.ru/izh/citybus/39?"
-        ],
-        "40": [
-            "Центр - Разворотное кольцо",
-            "https://igis-transport.ru/izh/citybus/40?"
-        ],
-        "41": [
-            "Собор А. Невского - с/з Металлург",
-            "https://igis-transport.ru/izh/citybus/41?"
-        ],
-        "45": [
-            "пос. Машиностроителей - Птицефабрика",
-            "https://igis-transport.ru/izh/citybus/45?"
-        ],
-        "49": [
-            "Транссельхозтехника - 1 РКБ",
-            "https://igis-transport.ru/izh/citybus/49?"
-        ],
-        "50": [
-            "ул. К.Герда - ул. Ворошилова",
-            "https://igis-transport.ru/izh/citybus/50?"
-        ],
-        "52": [
-            "ИжГТУ - Рембыттехника",
-            "https://igis-transport.ru/izh/citybus/52?"
-        ],
-        "53": [
-            "завод Пластмасс - Чекерил",
-            "https://igis-transport.ru/izh/citybus/53?"
-        ],
-        "56": [
-            "Собор А. Невского - м/р - н Игерман",
-            "https://igis-transport.ru/izh/citybus/56?"
-        ],
-        "68": [
-            "Ракетная - пов. на Смирново",
-            "https://igis-transport.ru/izh/citybus/68?"
-        ],
-        "71": [
-            "ГКБ №3 - Бригада Самолет",
-            "https://igis-transport.ru/izh/citybus/71?"
-        ],
-        "73": [
-            "Собор А. Невского - п. Шунды",
-            "https://igis-transport.ru/izh/citybus/73?"
-        ],
-        "79": [
-            "Парк им. Кирова - Разворотное кольцо",
-            "https://igis-transport.ru/izh/citybus/79?"
-        ]
-    }
+  "response": {
+    "2": [
+      "\u0421\u043e\u0431\u043e\u0440 \u0410. \u041d\u0435\u0432\u0441\u043a\u043e\u0433\u043e - \n                                \u0421/\u0445 \u041c\u0435\u0434\u0432\u0435\u0434\u0435\u0432\u043e",
+      "https://igis-transport.ru/izh/citybus/2?"
+    ],
+    "6": [
+      "\u0421\u043e\u0431\u043e\u0440 \u0410. \u041d\u0435\u0432\u0441\u043a\u043e\u0433\u043e - \n                                \u041b\u044e\u043b\u043b\u0438",
+      "https://igis-transport.ru/izh/citybus/6?"
+    ],
+    "7": [
+      "\u0421\u043e\u0431\u043e\u0440 \u0410. \u041d\u0435\u0432\u0441\u043a\u043e\u0433\u043e - \n                                \u0411\u0430\u0437\u0430 \u0421\u0422\u041c",
+      "https://igis-transport.ru/izh/citybus/7?"
+    ],
+    "8": [
+      "\u0421\u0442\u0430\u043d\u043a\u043e\u0441\u0442\u0440\u043e\u0439 - \n                                \u041c\u0430\u043b\u0438\u043d\u043e\u0432\u0430\u044f \u0413\u043e\u0440\u0430",
+      "https://igis-transport.ru/izh/citybus/8?"
+    ],
+    "9": [
+      "\u0421\u043e\u0431\u043e\u0440 \u0410. \u041d\u0435\u0432\u0441\u043a\u043e\u0433\u043e - \n                                \u043f\u043e\u0441. \u0428\u0443\u043d\u0434\u044b",
+      "https://igis-transport.ru/izh/citybus/9?"
+    ],
+    "10": [
+      "\u0421\u0442\u0430\u043d\u043a\u043e\u0441\u0442\u0440\u043e\u0439 - \n                                \u0437\u0430\u0432\u043e\u0434 \u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441",
+      "https://igis-transport.ru/izh/citybus/10?"
+    ],
+    "11": [
+      "\u0421\u043e\u0431\u043e\u0440 \u0410. \u041d\u0435\u0432\u0441\u043a\u043e\u0433\u043e - \n                                \u0443\u043b. \u0424\u0443\u0440\u043c\u0430\u043d\u043e\u0432\u0430",
+      "https://igis-transport.ru/izh/citybus/11?"
+    ],
+    "12": [
+      "\u0420\u0430\u0437\u0432\u043e\u0440\u043e\u0442\u043d\u043e\u0435 \u043a\u043e\u043b\u044c\u0446\u043e - \n                                \u0421\u0442\u0430\u043d\u043a\u043e\u0441\u0442\u0440\u043e\u0439",
+      "https://igis-transport.ru/izh/citybus/12?"
+    ],
+    "15": [
+      "\u0421\u0442\u0430\u043d\u043a\u043e\u0441\u0442\u0440\u043e\u0439 - \n                                \u041c\u0435\u0442\u0430\u043b\u043b\u043e\u0431\u0430\u0437\u0430",
+      "https://igis-transport.ru/izh/citybus/15?"
+    ],
+    "16": [
+      "\u0423\u0411\u0420 - \n                                    \u043c/\u0440 - \n                                \u043d \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439",
+      "https://igis-transport.ru/izh/citybus/16?"
+    ],
+    "18": [
+      "\u043f\u0430\u0440\u043a \u0438\u043c. \u041a\u0438\u0440\u043e\u0432\u0430 - \n                                \u0410\u0432\u0442\u043e\u0437\u0430\u0432\u043e\u0434",
+      "https://igis-transport.ru/izh/citybus/18?"
+    ],
+    "19": [
+      "\u0443\u043b. \u0427\u0443\u0433\u0443\u0435\u0432\u0441\u043a\u043e\u0433\u043e - \n                                \u0443\u043b. \u0412\u044b\u0441\u0442\u0430\u0432\u043e\u0447\u043d\u0430\u044f",
+      "https://igis-transport.ru/izh/citybus/19?"
+    ],
+    "21": [
+      "\u0421\u0430\u0434\u043e\u043e\u0433\u043e\u0440\u043e\u0434\u044b - \n                                \u0422\u0440\u0430\u043d\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u0442\u0435\u0445\u043d\u0438\u043a\u0430",
+      "https://igis-transport.ru/izh/citybus/21?"
+    ],
+    "22": [
+      "\u041e\u0440\u0430\u043d\u0436\u0435\u0440\u0435\u0439\u043d\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 - \n                                \u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439 \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d",
+      "https://igis-transport.ru/izh/citybus/22?"
+    ],
+    "23": [
+      "\u0443\u043b. 9 - \n                                    \u0435 \u042f\u043d\u0432\u0430\u0440\u044f - \n                                \u0428\u043a\u043e\u043b\u0430 \u2116 94",
+      "https://igis-transport.ru/izh/citybus/23?"
+    ],
+    "25": [
+      "\u0417\u0430\u0432\u043e\u0434 \u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441 - \n                                    \u043c\u043a\u0440 - \n                                \u043d \u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439",
+      "https://igis-transport.ru/izh/citybus/25?"
+    ],
+    "26": [
+      "16 - \n                                    \u044f - \n                                \u0420\u0430\u0437\u0432\u043e\u0440\u043e\u0442\u043d\u043e\u0435 \u043a\u043e\u043b\u044c\u0446\u043e",
+      "https://igis-transport.ru/izh/citybus/26?"
+    ],
+    "27": [
+      "\u0443\u043b. \u041a. \u0413\u0435\u0440\u0434\u0430 - \n                                \u0420\u0435\u043c\u0431\u044b\u0442\u0442\u0435\u0445\u043d\u0438\u043a\u0430",
+      "https://igis-transport.ru/izh/citybus/27?"
+    ],
+    "28": [
+      "\u0421\u043a\u0432\u0435\u0440 \u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u043e\u0432 - \n                                \u041a\u043e\u043b\u043b\u0435\u0434\u0436 \u0433\u043e\u0441 \u0438 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043b\u0443\u0436\u0431\u044b",
+      "https://igis-transport.ru/izh/citybus/28?"
+    ],
+    "29": [
+      "\u041f\u0430\u0440\u043a \u041a\u0438\u0440\u043e\u0432\u0430 - \n                                \u0420\u0435\u043c\u0431\u044b\u0442\u0442\u0435\u0445\u043d\u0438\u043a\u0430",
+      "https://igis-transport.ru/izh/citybus/29?"
+    ],
+    "31": [
+      "\u0420\u0435\u043c\u0431\u044b\u0442\u0442\u0435\u0445\u043d\u0438\u043a\u0430 - \n                                \u0422\u0440\u043e\u043b\u043b\u0435\u0439\u0431\u0443\u0441\u043d\u043e\u0435 \u043a\u043e\u043b\u044c\u0446\u043e",
+      "https://igis-transport.ru/izh/citybus/31?"
+    ],
+    "34": [
+      "\u0421\u0430\u0434\u043e\u043e\u0433\u043e\u0440\u043e\u0434\u044b - \n                                \u0421\u0442\u0430\u043d\u043a\u043e\u0441\u0442\u0440\u043e\u0439",
+      "https://igis-transport.ru/izh/citybus/34?"
+    ],
+    "36": [
+      "\u0417\u0430\u0432\u043e\u0434 \u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441 - \n                                \u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439 \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d",
+      "https://igis-transport.ru/izh/citybus/36?"
+    ],
+    "39": [
+      "\u0443\u043b. \u0427\u0443\u0433\u0443\u0435\u0432\u0441\u043a\u043e\u0433\u043e - \n                                \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0440\u044b\u043d\u043e\u043a",
+      "https://igis-transport.ru/izh/citybus/39?"
+    ],
+    "40": [
+      "\u0426\u0435\u043d\u0442\u0440 - \n                                \u0420\u0430\u0437\u0432\u043e\u0440\u043e\u0442\u043d\u043e\u0435 \u043a\u043e\u043b\u044c\u0446\u043e",
+      "https://igis-transport.ru/izh/citybus/40?"
+    ],
+    "41": [
+      "\u0421\u043e\u0431\u043e\u0440 \u0410. \u041d\u0435\u0432\u0441\u043a\u043e\u0433\u043e - \n                                \u0441/\u0437 \u041c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433",
+      "https://igis-transport.ru/izh/citybus/41?"
+    ],
+    "45": [
+      "\u043f\u043e\u0441. \u041c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u0435\u0439 - \n                                \u041f\u0442\u0438\u0446\u0435\u0444\u0430\u0431\u0440\u0438\u043a\u0430",
+      "https://igis-transport.ru/izh/citybus/45?"
+    ],
+    "49": [
+      "\u0422\u0440\u0430\u043d\u0441\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u0442\u0435\u0445\u043d\u0438\u043a\u0430 - \n                                1 \u0420\u041a\u0411",
+      "https://igis-transport.ru/izh/citybus/49?"
+    ],
+    "50": [
+      "\u0443\u043b. \u041a.\u0413\u0435\u0440\u0434\u0430 - \n                                \u0443\u043b. \u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u0430",
+      "https://igis-transport.ru/izh/citybus/50?"
+    ],
+    "52": [
+      "\u0418\u0436\u0413\u0422\u0423 - \n                                \u0420\u0435\u043c\u0431\u044b\u0442\u0442\u0435\u0445\u043d\u0438\u043a\u0430",
+      "https://igis-transport.ru/izh/citybus/52?"
+    ],
+    "53": [
+      "\u0437\u0430\u0432\u043e\u0434 \u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441 - \n                                \u0427\u0435\u043a\u0435\u0440\u0438\u043b",
+      "https://igis-transport.ru/izh/citybus/53?"
+    ],
+    "56": [
+      "\u0421\u043e\u0431\u043e\u0440 \u0410. \u041d\u0435\u0432\u0441\u043a\u043e\u0433\u043e - \n                                    \u043c/\u0440 - \n                                \u043d \u0418\u0433\u0435\u0440\u043c\u0430\u043d",
+      "https://igis-transport.ru/izh/citybus/56?"
+    ],
+    "68": [
+      "\u0420\u0430\u043a\u0435\u0442\u043d\u0430\u044f - \n                                \u043f\u043e\u0432. \u043d\u0430 \u0421\u043c\u0438\u0440\u043d\u043e\u0432\u043e",
+      "https://igis-transport.ru/izh/citybus/68?"
+    ],
+    "71": [
+      "\u0413\u041a\u0411 \u21163 - \n                                \u0411\u0440\u0438\u0433\u0430\u0434\u0430 \u0421\u0430\u043c\u043e\u043b\u0435\u0442",
+      "https://igis-transport.ru/izh/citybus/71?"
+    ],
+    "73": [
+      "\u0421\u043e\u0431\u043e\u0440 \u0410. \u041d\u0435\u0432\u0441\u043a\u043e\u0433\u043e - \n                                \u043f. \u0428\u0443\u043d\u0434\u044b",
+      "https://igis-transport.ru/izh/citybus/73?"
+    ],
+    "79": [
+      "\u041f\u0430\u0440\u043a \u0438\u043c. \u041a\u0438\u0440\u043e\u0432\u0430 - \n                                \u0420\u0430\u0437\u0432\u043e\u0440\u043e\u0442\u043d\u043e\u0435 \u043a\u043e\u043b\u044c\u0446\u043e",
+      "https://igis-transport.ru/izh/citybus/79?"
+    ]
+  }
 }

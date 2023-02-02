@@ -11,7 +11,7 @@ def markup_Reply_transport_button():
     bus_button = types.KeyboardButton("Автобус")
     tramway_button = types.KeyboardButton("Трамвай")
     trolleybus_button = types.KeyboardButton("Троллейбус")
-    button_back = types.KeyboardButton("Назад")
+    button_back = types.KeyboardButton("В начало")
     markup.add(button_back)
     markup.row(bus_button, trolleybus_button, tramway_button)
     return markup
@@ -87,6 +87,14 @@ def choiсe_transport_type(message):
         else:
             markup = markup_Reply_transport_button()
             bot.send_message(message.chat.id, f"Введите необходимый вид транспорта:\n{str_output}",reply_markup=markup)
+    if(mess_text == 'Назад'):
+        markup = markup_Reply_transport_button()
+        bot.send_message(message.chat.id, "Вы вернулись назад", reply_markup=markup)
+    if (mess_text == 'В начало'):
+        markup = types.ReplyKeyboardMarkup(resize_keyboard=True, row_width=1)
+        route = types.KeyboardButton("Тип транспорта")
+        markup.add(route)
+        bot.send_message(message.chat.id, "Вы вернулись в начало", reply_markup=markup)
 
 
 bot.polling(none_stop=True)

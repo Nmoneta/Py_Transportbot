@@ -1,48 +1,48 @@
 {
-    "response": {
-        "1": [
-            "Улица Московская - Сквер металлургов",
-            "https://igis-transport.ru/izh/tram/1?"
-        ],
-        "2": [
-            "Улица Промышленная - Буммаш",
-            "https://igis-transport.ru/izh/tram/2?"
-        ],
-        "3": [
-            "Улица Московская - Улица Промышленная",
-            "https://igis-transport.ru/izh/tram/3?"
-        ],
-        "4": [
-            "Улица Промышленная - Сквер металлургов",
-            "https://igis-transport.ru/izh/tram/4?"
-        ],
-        "5": [
-            "Буммаш - Улица Огнеупорная",
-            "https://igis-transport.ru/izh/tram/5?"
-        ],
-        "7": [
-            "Буммаш - Сквер металлургов",
-            "https://igis-transport.ru/izh/tram/7?"
-        ],
-        "8": [
-            "Буммаш - Улица Промышленная",
-            "https://igis-transport.ru/izh/tram/8?"
-        ],
-        "9": [
-            "Улица Московская - Буммаш",
-            "https://igis-transport.ru/izh/tram/9?"
-        ],
-        "10": [
-            "Сквер металлургов - Улица Ворошилова",
-            "https://igis-transport.ru/izh/tram/10?"
-        ],
-        "11": [
-            "Улица Промышленная - Улица Ворошилова",
-            "https://igis-transport.ru/izh/tram/11?"
-        ],
-        "12": [
-            "Улица Московская - Улица Ворошилова",
-            "https://igis-transport.ru/izh/tram/12?"
-        ]
-    }
+  "response": {
+    "1": [
+      "\u0423\u043b\u0438\u0446\u0430 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f - \n                                \u0421\u043a\u0432\u0435\u0440 \u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u043e\u0432",
+      "https://igis-transport.ru/izh/tram/1?"
+    ],
+    "2": [
+      "\u0423\u043b\u0438\u0446\u0430 \u041f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0430\u044f - \n                                \u0411\u0443\u043c\u043c\u0430\u0448",
+      "https://igis-transport.ru/izh/tram/2?"
+    ],
+    "3": [
+      "\u0423\u043b\u0438\u0446\u0430 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f - \n                                \u0423\u043b\u0438\u0446\u0430 \u041f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0430\u044f",
+      "https://igis-transport.ru/izh/tram/3?"
+    ],
+    "4": [
+      "\u0423\u043b\u0438\u0446\u0430 \u041f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0430\u044f - \n                                \u0421\u043a\u0432\u0435\u0440 \u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u043e\u0432",
+      "https://igis-transport.ru/izh/tram/4?"
+    ],
+    "5": [
+      "\u0411\u0443\u043c\u043c\u0430\u0448 - \n                                \u0423\u043b\u0438\u0446\u0430 \u041e\u0433\u043d\u0435\u0443\u043f\u043e\u0440\u043d\u0430\u044f",
+      "https://igis-transport.ru/izh/tram/5?"
+    ],
+    "7": [
+      "\u0411\u0443\u043c\u043c\u0430\u0448 - \n                                \u0421\u043a\u0432\u0435\u0440 \u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u043e\u0432",
+      "https://igis-transport.ru/izh/tram/7?"
+    ],
+    "8": [
+      "\u0411\u0443\u043c\u043c\u0430\u0448 - \n                                \u0423\u043b\u0438\u0446\u0430 \u041f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0430\u044f",
+      "https://igis-transport.ru/izh/tram/8?"
+    ],
+    "9": [
+      "\u0423\u043b\u0438\u0446\u0430 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f - \n                                \u0411\u0443\u043c\u043c\u0430\u0448",
+      "https://igis-transport.ru/izh/tram/9?"
+    ],
+    "10": [
+      "\u0421\u043a\u0432\u0435\u0440 \u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u043e\u0432 - \n                                \u0423\u043b\u0438\u0446\u0430 \u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u0430",
+      "https://igis-transport.ru/izh/tram/10?"
+    ],
+    "11": [
+      "\u0423\u043b\u0438\u0446\u0430 \u041f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0430\u044f - \n                                \u0423\u043b\u0438\u0446\u0430 \u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u0430",
+      "https://igis-transport.ru/izh/tram/11?"
+    ],
+    "12": [
+      "\u0423\u043b\u0438\u0446\u0430 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f - \n                                \u0423\u043b\u0438\u0446\u0430 \u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u0430",
+      "https://igis-transport.ru/izh/tram/12?"
+    ]
+  }
 }

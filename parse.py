@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 import json
 import time
 import csv
+from selenium.webdriver.firefox.options import Options as firefox_options
+from selenium.webdriver.chrome.service import Service
 #
 url="https://igis-transport.ru/izh/"
 #
@@ -46,7 +48,7 @@ def get_transport_num():
                 ]
             )
         with open(f"data/{category_name}.json", "w") as file:
-            json.dump({"response":{}},file,indent=4,ensure_ascii=False)
+            json.dump({"response":{}},file,indent=2)
         with open(f"data/{category_name}.json", "r") as file:
             data = json.load(file)
         transport_data = soup.find("table", class_="route").find("tbody").find_all("tr")
@@ -62,7 +64,7 @@ def get_transport_num():
             if(int(transport_data_num) == 79):
                 break
         with open(f"data/{category_name}.json", "w") as file:
-            json.dump(data, file, indent=4, ensure_ascii=False)
+            json.dump(data, file, indent=2)
 
 
 # Функция парсера
@@ -75,8 +77,12 @@ def parse(url):
 
 #Функция подгружает страницу вместе со всеми скриптами, а после возвращает html код
 def page_load(url):
-    src=r"D:\chromedriver.exe"
-    browse = webdriver.Chrome(executable_path=src)
+    src="/root/Pybot/driver/geckodriver"
+    options = firefox_options()
+    #options.add_argument('user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36')
+    options.add_argument('--headless')
+    options.headless = True
+    browse = webdriver.Firefox(executable_path=src,firefox_options=options)
     try:
         browse.get(url=url)
         time.sleep(3)
@@ -135,7 +141,8 @@ def position(transport_num,type_transport):
                     flag=False
                 break
     with open("data/transport_position.json","w") as file:
-        json.dump(dict_transport,file,indent=4,ensure_ascii=False)
+        json.dump(dict_transport,file,indent=2)
     return dict_transport
-get_tranport_type()
-# position("29","Автобус")
+# get_tranport_type()
+#get_transport_num()
+#position("29","Автобус")
